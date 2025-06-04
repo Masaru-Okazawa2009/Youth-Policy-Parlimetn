@@ -5,6 +5,8 @@ body {
     background-color: #f9f9f9;
 }
 header {
+    background-color: #2196f3;
+
 
     background-color: #2196f3;
 
@@ -35,14 +37,16 @@ main {
 footer {
 
     background-color: #2196f3;
-=======
+
+
+    background-color: #2196f3;
+
     background-color: #333;
 
     color: #fff;
     text-align: center;
     padding: 10px 20px;
 }
-
 
 .button {
     display: inline-block;
