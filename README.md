@@ -7,6 +7,5 @@
 - `about.html` 若者政策議会とは
 - `activities.html` 活動内容
 - `members.html` 運営メンバー
-- `join.html` 参加方法
 
 スタイルは `style.css` に記述しています。
